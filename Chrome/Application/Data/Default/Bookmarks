@@ -1,0 +1,388 @@
+{
+   "checksum": "16ef2b563cc03d0fe4485bcf3e1e29a9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13221625828578533",
+            "guid": "ed8a74ea-8ae1-41d7-af1e-5c1191e63726",
+            "id": "2",
+            "name": "百度一下",
+            "type": "url",
+            "url": "http://www.baidu.com/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13281858257762513",
+                  "guid": "a9a9e360-0718-413f-8715-96c8ec125cde",
+                  "id": "5",
+                  "name": "Adobe Premiere Pro CC 2019 全套入门教程_哔哩哔哩_bilibili",
+                  "type": "url",
+                  "url": "https://www.bilibili.com/video/av70305941"
+               }, {
+                  "date_added": "13281858330299442",
+                  "guid": "910f1618-6562-4ec9-bea9-1b01ab9abf49",
+                  "id": "6",
+                  "name": "[如何学剪辑]Pr cc 2019零基础教学，从入门到精通。_哔哩哔哩_bilibili",
+                  "type": "url",
+                  "url": "https://www.bilibili.com/video/BV18b411j7Uw/?spm_id_from=333.788.recommend_more_video.4"
+               }, {
+                  "date_added": "13281858340003128",
+                  "guid": "2524abb3-cc62-4789-9027-9ef47ccd8bdf",
+                  "id": "7",
+                  "name": "Pr教程全57集_哔哩哔哩_bilibili",
+                  "type": "url",
+                  "url": "https://www.bilibili.com/video/BV1bb411F7Sh/?spm_id_from=333.788.recommend_more_video.8"
+               }, {
+                  "date_added": "13281858397907147",
+                  "guid": "43df902a-5887-426d-8cc2-20e95f5ef22b",
+                  "id": "8",
+                  "name": "【PR】Premiere Pro CC 2019全套入门教程 UP主必备！_哔哩哔哩_bilibili",
+                  "type": "url",
+                  "url": "https://www.bilibili.com/video/BV1kJ41167uu/?spm_id_from=333.788.recommend_more_video.6"
+               } ],
+               "date_added": "13281858205803452",
+               "date_modified": "13282206870678955",
+               "guid": "d0bfe1ef-db5e-4364-b47f-c82a4cc7e7cd",
+               "id": "4",
+               "name": "影视后期",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274431290041617",
+                  "guid": "f501b86f-428b-4ca5-a843-48f491077352",
+                  "id": "10",
+                  "name": "出海东南亚电商平台跨境解决方案 | Shopee 虾皮",
+                  "type": "url",
+                  "url": "https://shopee.cn/"
+               }, {
+                  "date_added": "13274431641393723",
+                  "guid": "bbae9800-451a-42a3-b671-79cc3241622c",
+                  "id": "11",
+                  "name": "新台币人民币_百度搜索",
+                  "type": "url",
+                  "url": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%96%B0%E5%8F%B0%E5%B8%81%E4%BA%BA%E6%B0%91%E5%B8%81&fenlei=256&oq=%25E6%25B3%25B0%25E9%2593%25A2%25E4%25BA%25BA%25E6%25B0%2591%25E5%25B8%2581&rsv_pq=e0ac12dd000612f5&rsv_t=cba2Y7RtHmleL%2BYrNf10UFbeI8zVirvmPOzEmIajAt%2B5Tr8ALcHOjUhgJtk&rqlang=cn&rsv_dl=tb&rsv_enter=1&rsv_sug3=8&rsv_sug1=8&rsv_sug7=100&bs=%E6%B3%B0%E9%93%A2%E4%BA%BA%E6%B0%91%E5%B8%81"
+               }, {
+                  "date_added": "13221625828578533",
+                  "guid": "8baab9f6-2f6d-4f59-bdba-207fa4225ffa",
+                  "id": "12",
+                  "name": "天猫精选",
+                  "type": "url",
+                  "url": "http://sc.136738.com/tmall.html"
+               }, {
+                  "date_added": "13221625828594159",
+                  "guid": "37e5bc3e-86be-431d-977f-af02debad804",
+                  "id": "13",
+                  "name": "拼多多",
+                  "type": "url",
+                  "url": "http://sc.136738.com/pdd.html"
+               }, {
+                  "date_added": "13281858026530343",
+                  "guid": "fa8427a6-0594-46f9-bee0-3707d7f483c8",
+                  "id": "14",
+                  "name": "Google 翻译",
+                  "type": "url",
+                  "url": "https://translate.google.cn/?sl=auto&tl=zh-CN&text=%E0%B9%81%E0%B8%97%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%B6%E0%B8%A1%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%A7%E0%B8%94%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7&op=translate"
+               }, {
+                  "date_added": "13221625828562908",
+                  "guid": "becad1b5-fd29-43a7-8788-94bcfb5e00bb",
+                  "id": "15",
+                  "name": "淘宝网",
+                  "type": "url",
+                  "url": "http://sc.136738.com/taobao.html"
+               }, {
+                  "date_added": "13274431525210053",
+                  "guid": "9f2470a5-a3c9-4539-91ae-de3cb62322dd",
+                  "id": "16",
+                  "name": "阿里翻译-跨境电商语言解决方案",
+                  "type": "url",
+                  "url": "https://www.alifanyi.com/"
+               }, {
+                  "date_added": "13274431564425677",
+                  "guid": "5647bda2-c775-4d6e-bafa-f401a7a9804e",
+                  "id": "17",
+                  "name": "客优云ERP - 虾皮免费上货软件、Shopee ERP、Shopee虾皮铺货软件、Shope批量上传、免费跨境ERP",
+                  "type": "url",
+                  "url": "https://erp.keyouyun.com/login"
+               }, {
+                  "date_added": "13274431685193601",
+                  "guid": "4f5f29b4-6bff-4e5c-a94a-eb3fffd5104d",
+                  "id": "18",
+                  "name": "马六甲ERP",
+                  "type": "url",
+                  "url": "https://erp.emalacca.com/#/auth/register?invitationCode=XX"
+               }, {
+                  "date_added": "13274431706978462",
+                  "guid": "bd61a2e2-056f-4dbf-bedf-6859dfaf4677",
+                  "id": "19",
+                  "name": "芒果店长",
+                  "type": "url",
+                  "url": "https://www.mangoerp.com/login#/signin"
+               } ],
+               "date_added": "13281857966989379",
+               "date_modified": "13281858026530343",
+               "guid": "927a2a86-bbd4-432b-b0eb-c7d96348be0d",
+               "id": "9",
+               "name": "跨境电商",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13315129828740398",
+                  "guid": "3cf0dc2f-8939-4b7a-97f8-638c3fb393b7",
+                  "id": "21",
+                  "name": "基因就是Gene的博客_CSDN博客-ada编程语言领域博主",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/qq_38840094?type=blog"
+               } ],
+               "date_added": "13315129845670674",
+               "date_modified": "13315129845670727",
+               "guid": "25b20e80-676e-4e56-af51-8de72fb9f571",
+               "id": "20",
+               "name": "Ada",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13315130318226890",
+                  "guid": "f36d68bd-0d65-4487-b8e1-8045cf7cbe5b",
+                  "id": "23",
+                  "name": "(15条消息) github新手用法详解（建议收藏！！！）_怪 咖@的博客-CSDN博客_github的用法",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/weixin_43888891/article/details/112385076?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167063170916800213091488%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167063170916800213091488&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-112385076-null-null.142^v68^control,201^v4^add_ask,213^v2^t3_control1&utm_term=github&spm=1018.2226.3001.4187"
+               }, {
+                  "date_added": "13315130875168912",
+                  "guid": "be536b91-72b7-46aa-b7f2-90c26aa666d9",
+                  "id": "24",
+                  "name": "git命令使用图文教程（专题）-php中文网",
+                  "type": "url",
+                  "url": "https://www.php.cn/tool/git/"
+               }, {
+                  "date_added": "13315135168126362",
+                  "guid": "860f5b4c-eae4-47c4-95f7-4405009ad6a4",
+                  "id": "25",
+                  "name": "(16条消息) 史上最简单的 GitHub 教程_CG国斌的博客-CSDN博客_github",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/qq_35246620/article/details/66973794?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167063170916800213091488%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167063170916800213091488&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-66973794-null-null.142^v68^control,201^v4^add_ask,213^v2^t3_control1&utm_term=github&spm=1018.2226.3001.4187"
+               }, {
+                  "date_added": "13315179098135618",
+                  "guid": "0fc92619-426b-4e78-ab03-268dd2803e42",
+                  "id": "26",
+                  "name": ".gitignore文件用法及如何配置_一抹晴空的博客-CSDN博客_gitignore文件",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/zhang90283/article/details/124245456"
+               }, {
+                  "date_added": "13315237246017874",
+                  "guid": "0bfdc64c-924e-4e44-ada7-ba690b357c2a",
+                  "id": "27",
+                  "name": "mb6395a6ccec7bc的订单记录_51CTO学堂",
+                  "type": "url",
+                  "url": "https://edu.51cto.com/center/orders/order/get-order-list"
+               }, {
+                  "date_added": "13315237512663350",
+                  "guid": "64195b0e-39c3-4125-b236-fd7137eaa55f",
+                  "id": "28",
+                  "name": "GitHub: Let’s build from here · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/"
+               }, {
+                  "date_added": "13315238703346954",
+                  "guid": "f389eb51-3613-4653-a537-7bd42159da05",
+                  "id": "29",
+                  "name": "wangding/courses: 录制的视频课程资料",
+                  "type": "url",
+                  "url": "https://github.com/wangding/courses"
+               }, {
+                  "date_added": "13315550341186142",
+                  "guid": "6a645704-4c3e-4792-8077-dbd105309ca2",
+                  "id": "52",
+                  "name": "OSCHINA - 中文开源技术交流社区",
+                  "type": "url",
+                  "url": "https://www.oschina.net/"
+               }, {
+                  "date_added": "13315550652596127",
+                  "guid": "0fd7af8c-51f7-4183-8235-229f2ee43dfb",
+                  "id": "53",
+                  "name": "开源软件 - OSCHINA - 中文开源技术交流社区",
+                  "type": "url",
+                  "url": "https://www.oschina.net/project"
+               }, {
+                  "date_added": "13315550708250130",
+                  "guid": "41bc1eab-9c7d-4f11-94fe-1080f500b591",
+                  "id": "54",
+                  "name": "工作台 - Gitee.com",
+                  "type": "url",
+                  "url": "https://gitee.com/dashboard"
+               }, {
+                  "date_added": "13315561438703084",
+                  "guid": "2bd6d4a2-bcce-4b30-bbd0-634e679049b6",
+                  "id": "55",
+                  "name": "hallard/LoLin32-Lite-Lora: ESP32 LoLin32 Lite Shield for RFM95 or RN2483 LoRa Modules",
+                  "type": "url",
+                  "url": "https://github.com/hallard/lolin32-lite-lora"
+               }, {
+                  "date_added": "13315561567809005",
+                  "guid": "2d5187ac-efa8-436b-b2c0-f142c1029094",
+                  "id": "56",
+                  "name": "git远程拉取代码基本操作 - 走看看",
+                  "type": "url",
+                  "url": "http://t.zoukankan.com/wasbg-p-12262999.html"
+               } ],
+               "date_added": "13315130902491919",
+               "date_modified": "13315561567809005",
+               "guid": "9b6abfd1-4e92-4d26-a6be-a60cdaab3fce",
+               "id": "22",
+               "name": "GitHub",
+               "type": "folder"
+            }, {
+               "date_added": "13315133158790532",
+               "guid": "f5488fdd-3e31-4b00-8e2a-7a62016abe3e",
+               "id": "30",
+               "name": "邮件 - Zhang DQ - Outlook",
+               "type": "url",
+               "url": "https://outlook.live.com/mail/0/"
+            }, {
+               "date_added": "13282861970575273",
+               "guid": "c697b479-bc86-4ad2-8e41-8020c85c1595",
+               "id": "31",
+               "name": "姐不做小三 DJ-音乐-高清完整正版视频在线观看-优酷",
+               "type": "url",
+               "url": "https://v.youku.com/v_show/id_XNDY2MjE2ODUxNg=="
+            }, {
+               "date_added": "13314874993411975",
+               "guid": "8a2652b6-8dfb-49bd-beea-7c3472ca69dc",
+               "id": "32",
+               "name": "Android Studio中java.lang.AssertionError异常解决方案_wellchang的博客-CSDN博客",
+               "type": "url",
+               "url": "https://wellchang.blog.csdn.net/article/details/17765619?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-17765619-blog-119965177.pc_relevant_multi_platform_whitelistv3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-17765619-blog-119965177.pc_relevant_multi_platform_whitelistv3&utm_relevant_index=2"
+            }, {
+               "date_added": "13314875362627376",
+               "guid": "2deac0d6-dbec-4076-8018-d22060a722e5",
+               "id": "33",
+               "name": "Android Studio 3.0 Gradle 同步失败:java.lang.AssertionError(在 UnresolvedDependenciesReporter 中) - IT屋-程序员软件开发技术分享社区",
+               "type": "url",
+               "url": "https://www.it1352.com/2592314.html"
+            }, {
+               "date_added": "13315048659184217",
+               "guid": "63773038-c4dd-4e0c-ad44-6a063dd5f6f1",
+               "id": "34",
+               "name": "Android Studio 编译报错：Process 'command 'aapt.exe'' finished with non-zero exit value 1_hickey96的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/hickey96/article/details/85235550"
+            } ],
+            "date_added": "13314623810480749",
+            "date_modified": "13315135168126362",
+            "guid": "888eb7c6-eeca-48f6-ba17-337a7c8fe396",
+            "id": "3",
+            "name": "Links",
+            "type": "folder"
+         }, {
+            "date_added": "13314626140936764",
+            "guid": "a4ba5a4f-7235-43e5-a7fd-ec14e1d024fe",
+            "id": "35",
+            "name": "追能云-清洁能源智慧管理平台",
+            "type": "url",
+            "url": "http://www.zhuineng.com/companys/cib/login.html"
+         }, {
+            "date_added": "13282206870678955",
+            "guid": "ae2658d2-fa24-468d-af10-28a260ab363e",
+            "id": "36",
+            "name": "阿里云盘-本地硬盘",
+            "type": "url",
+            "url": "http://localhost:9798/"
+         }, {
+            "date_added": "13314761772018553",
+            "guid": "a3632770-0a3d-47f3-adb0-6d4f671b1d5e",
+            "id": "37",
+            "name": "百度翻译-200种语言互译、沟通全世界！",
+            "type": "url",
+            "url": "https://fanyi.baidu.com/translate#en/zh/flutter"
+         }, {
+            "date_added": "13274431468617646",
+            "guid": "eee23d91-f572-4b65-b7e2-4c9fa26b8d8c",
+            "id": "38",
+            "name": "Google 翻译",
+            "type": "url",
+            "url": "https://translate.google.cn/"
+         }, {
+            "date_added": "13274431499105140",
+            "guid": "3acef308-4baf-4ad7-94b2-e0702e7e7a0f",
+            "id": "39",
+            "name": "在线翻译_有道",
+            "type": "url",
+            "url": "https://fanyi.youdao.com/"
+         }, {
+            "date_added": "13274431622281833",
+            "guid": "c11cadef-377d-402f-a965-40ba9af6ca6c",
+            "id": "40",
+            "name": "阿里云盘",
+            "type": "url",
+            "url": "https://www.aliyundrive.com/sign/in"
+         }, {
+            "date_added": "13278178793782406",
+            "guid": "0344946a-5ab9-428f-b180-83bacd3b5876",
+            "id": "41",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13278178793783509",
+            "guid": "edbbed46-c2a3-4552-b25a-381687bcb6b0",
+            "id": "42",
+            "name": "地图",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13315127677726025",
+            "guid": "3b83a1f7-61c1-44e3-908f-516743925189",
+            "id": "43",
+            "name": "淘宝网 - 淘！我喜欢",
+            "type": "url",
+            "url": "https://www.taobao.com/"
+         }, {
+            "date_added": "13315238287420183",
+            "guid": "9f9f610f-f8a6-4c10-9e19-32c08c3a18fe",
+            "id": "44",
+            "name": "登录 Outlook",
+            "type": "url",
+            "url": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1670764683&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fcobrandid%3dab0455a0-8d03-46b9-b18b-df2f57b9e44c%26nlp%3d1%26RpsCsrfState%3d040b457b-87e5-7035-c285-c85556bea7f5&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=ab0455a0-8d03-46b9-b18b-df2f57b9e44c"
+         }, {
+            "date_added": "13315290043739695",
+            "guid": "2cf62323-96c8-4efb-badd-aa64904cc867",
+            "id": "48",
+            "name": "ProcessOn思维导图、流程图-思维导图模板_思维导图软件免费下载_在线作图协作工具",
+            "type": "url",
+            "url": "https://www.processon.com/"
+         }, {
+            "date_added": "13315376345390722",
+            "guid": "12e47f3b-bef8-44b2-b99f-3728d8ffe3b8",
+            "id": "50",
+            "name": "HarmonyOS应用开发官网 - 华为HarmonyOS打造全场景新服务",
+            "type": "url",
+            "url": "https://developer.harmonyos.com/"
+         } ],
+         "date_added": "13176283637739162",
+         "date_modified": "13315394263626386",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13176283637739198",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "45",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13176283637739202",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "46",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
